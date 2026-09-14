@@ -25,11 +25,10 @@
   <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,nodejs,tailwind,prisma,postgres,docker,git,github,vscode&theme=dark" />
 </div>
 
-<!-- ==================== آمار گیت‌هاب (سرویس جایگزین) ==================== -->
+<!-- ==================== آمار گیت‌هاب (سرویس جایگزین و پایدار) ==================== -->
 <h2 align="center">📊 آمار گیت‌هاب</h2>
 
 <div align="center">
-  <!-- این سرویس به جای github-readme-stats استفاده میشه و پایدارتره -->
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=salmanhossinpour&theme=radical" width="100%" />
 </div>
 
@@ -41,28 +40,22 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=salmanhossinpour&theme=radical&utcOffset=3.5" width="32%" />
 </div>
 
-<!-- ==================== نمودار فعالیت ==================== -->
-<h2 align="center">📈 نمودار فعالیت</h2>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=salmanhossinpour&theme=react-dark&hide_border=true&area=true" width="100%" />
-</div>
-
-<!-- ==================== پروژه‌های ویژه ==================== -->
+<!-- ==================== پروژه‌های ویژه (با نشان‌های پایدار Shields.io) ==================== -->
 <h2 align="center">🚀 پروژه‌های ویژه</h2>
 
 <div align="center">
   <a href="https://github.com/salmanhossinpour/Ultradio">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=salmanhossinpour&repo=Ultradio&theme=radical&hide_border=true&cache_seconds=86400" width="48%" />
+    <img src="https://img.shields.io/badge/Ultradio-Repository-36BCF7?style=for-the-badge&logo=github" />
   </a>
   <a href="https://github.com/salmanhossinpour/hadsolite">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=salmanhossinpour&repo=hadsolite&theme=radical&hide_border=true&cache_seconds=86400" width="48%" />
+    <img src="https://img.shields.io/badge/hadsolite-Repository-36BCF7?style=for-the-badge&logo=github" />
   </a>
+  <br/>
   <a href="https://github.com/salmanhossinpour/takhteh-PRo">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=salmanhossinpour&repo=takhteh-PRo&theme=radical&hide_border=true&cache_seconds=86400" width="48%" />
+    <img src="https://img.shields.io/badge/takhteh--PRo-Repository-36BCF7?style=for-the-badge&logo=github" />
   </a>
   <a href="https://github.com/salmanhossinpour/HRMS-Ai">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=salmanhossinpour&repo=HRMS-Ai&theme=radical&hide_border=true&cache_seconds=86400" width="48%" />
+    <img src="https://img.shields.io/badge/HRMS--Ai-Repository-36BCF7?style=for-the-badge&logo=github" />
   </a>
 </div>
 
