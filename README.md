@@ -18,14 +18,18 @@
   </a>
 </p>
 
-<!-- ==================== مهارت‌ها (تک تصویر پایدار) ==================== -->
+<!-- ==================== مهارت‌ها (اضافه شدن Antigravity) ==================== -->
 <h2 align="center">🛠️ مهارت‌ها و تکنولوژی‌ها</h2>
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,nodejs,tailwind,prisma,postgres,docker,git,github,vscode&theme=dark" />
+  <br/><br/>
+  <a href="https://antigravity.google" target="_blank">
+    <img src="https://raw.githubusercontent.com/lobehub/lobe-icons/refs/heads/master/packages/static-png/dark/antigravity-color.png" width="60" height="60" alt="Antigravity" title="Google Antigravity" />
+  </a>
 </div>
 
-<!-- ==================== آمار گیت‌هاب (سرویس جایگزین و پایدار) ==================== -->
+<!-- ==================== آمار گیت‌هاب ==================== -->
 <h2 align="center">📊 آمار گیت‌هاب</h2>
 
 <div align="center">
@@ -40,7 +44,7 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=salmanhossinpour&theme=radical&utcOffset=3.5" width="32%" />
 </div>
 
-<!-- ==================== پروژه‌های ویژه (با نشان‌های پایدار Shields.io) ==================== -->
+<!-- ==================== پروژه‌های ویژه ==================== -->
 <h2 align="center">🚀 پروژه‌های ویژه</h2>
 
 <div align="center">
