@@ -4,7 +4,7 @@
 </div>
 
 <!-- ==================== بیو ==================== -->
-<h3 align="center">توسعه‌دهنده TypeScript | عاشق پروژه‌های اوپن‌سورس و ابزارهای خفن</h3>
+<h3 align="center">توسعه‌دهنده TypeScript |  پروژه‌های اوپن‌سورس و ابزارهای خفن</h3>
 
 <p align="center">
   <a href="https://github.com/salmanhossinpour?tab=followers">
